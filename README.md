@@ -1,0 +1,2 @@
+# techties
+computer knowledges
